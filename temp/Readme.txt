@@ -1,0 +1,1 @@
+Pasta temporaria para direcionar a imagem redimensionada.
